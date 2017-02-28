@@ -1292,7 +1292,7 @@ input[type="submit"]:hover {
     color: #333333
 }
 #esri-logo-footer {
-    background: transparent url(/img/esri-footer-social.jpg) no-repeat bottom right;
+    background: transparent url(../img/esri-footer-social.jpg) no-repeat bottom right;
     width: 120px;
     height: 120px;
     text-indent: -9999px;
