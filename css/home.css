@@ -10,15 +10,17 @@ body {
     }
 }
 #home-banner {
-    background: url("../img/maplabs-background.jpg") repeat top right #f5eb10;
+	background: url('../img/bg--robot-left.png') -60px top no-repeat, url('../img/bg--robot-right.png') 110% top no-repeat, url('../img/bg--contours.jpg') 0 0 repeat;
     color: white;
     height: auto
 }
+
 @media screen and (max-width: 1320px) {
     #home-banner {
-        background-position: top left
+        background: url("../img/bg--contours.jpg") 0 0 repeat;
     }
 }
+
 .larger-icon {
     font-size: 200%;
     vertical-align: -.25em;
