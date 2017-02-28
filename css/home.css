@@ -140,7 +140,7 @@ body {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     float: left;
-    padding: 0 0.5em;
+    padding: 0 0 0 0.5em;
     width: 72.91667%
 }
 @media screen and (max-width: 1024px) {
