@@ -41,5 +41,4 @@ $(function() {
 			38 === t.which && t.shiftKey && i ? o > 1e3 && (o -= 1e3) : 40 === t.which && t.shiftKey && i && 5e3 > o && (o += 1e3), i && e(i)
 		})
 	})
-	e.isotope("reLayout");
 });
