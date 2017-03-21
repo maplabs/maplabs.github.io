@@ -185,7 +185,9 @@ em.lable-it {
     background-color: #ffffff;
     position: relative;
     display: block;
-    float: left
+    float: left;
+    height: 300px;
+    margin-top: 15px;
 }
 @media screen and (max-width: 1024px) {
     .repo-container {
@@ -218,7 +220,7 @@ em.lable-it {
     }
 }
 .repo {
-    height: auto;
+    height: 300px;
     min-height: 10em;
     padding: 12px;
     background-color: #f4f4f4;
