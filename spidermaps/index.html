@@ -1,0 +1,130 @@
+<head>
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1, user-scalable=no" />
+    <meta charset="utf-8">
+
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <!--This isn't needed for the module - just a google font type!-->
+    
+    
+    <link rel="stylesheet" href="https://js.arcgis.com/4.5/esri/css/main.css">
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- Step 1. Require the module folder. -->
+    <script>
+        var dojoConfig = {
+            async: true,
+            isDebug: true,
+            paths: {
+                modules: location.href.replace(location.href.split("/").pop(), "") + "/lib/modules"
+            }
+        };
+    </script>
+    
+    <script src="https://js.arcgis.com/4.5/"></script>
+
+
+    <script>
+        require([
+            /*-- Step 2. Add the module name here --*/
+            "modules/spiderMaps",
+
+            "esri/Map",
+            "esri/views/MapView",
+            "esri/layers/FeatureLayer",
+
+            "esri/symbols/SimpleLineSymbol",
+
+            "esri/Graphic",
+            "dojo/dom",
+            "dojo/domReady!"
+
+            /*Step 3. Add module name in the correct order below*/
+        ], function(spiderMaps, Map, MapView, FeatureLayer, SimpleLineSymbol, Graphic, dom) {
+            var map = new Map({
+              basemap: "dark-gray"
+            });
+
+            var view = new MapView({
+                container: "viewDiv",
+                map: map,
+                zoom: 3,
+                center: [-0.0762373,30.5054002]
+            });
+            
+            
+             var featureLayer = new FeatureLayer({
+                url: "https://services.arcgis.com/Qo2anKIAMzIEkIJB/arcgis/rest/services/whats_the_points/FeatureServer"
+            });    
+                map.add(featureLayer)
+   
+            //Starting coordinates (long latt)
+            var startPointLongLatt = [-0.0762373,51.5054002]
+            
+      
+            var lineSymbol = new SimpleLineSymbol({
+                cap: "round",
+                color: "gold",
+                width: 1,
+                style: "solid"
+            });
+         
+            spiderMaps.create(view, startPointLongLatt, featureLayer, lineSymbol, true, "high");              
+           
+            document.getElementById("fs-button").addEventListener("click", updateFL);
+            
+            
+             function updateFL() {
+                 console.log(document.getElementById("fs-text").value)
+                 map.remove(featureLayer)
+                 featureLayer = new FeatureLayer({
+                     url: document.getElementById("fs-text").value
+                 });  
+                 
+                map.add(featureLayer)
+                spiderMaps.update(view, startPointLongLatt, featureLayer, lineSymbol, true, "low"); 
+
+            }
+            
+            view.on("click", function(event){
+
+                startPointLongLatt = [event.mapPoint.longitude,event.mapPoint.latitude]
+                lineSymbol = new SimpleLineSymbol({
+                    cap: "round",
+                    color: "gold",
+                    width: 1,
+                    style: "solid"
+                });
+                if(event.button === 0){
+                spiderMaps.update(view, startPointLongLatt, featureLayer, lineSymbol, true, "low"); 
+                }else if(event.button === 1){
+                 lineSymbol = new SimpleLineSymbol({
+                        cap: "round",
+                        color: [Math.random()*255, Math.random()*255, Math.random()*255, 1],
+                        width: (Math.random()*4)+1,
+                        style: "dash"
+                });
+                    
+                spiderMaps.update(view, startPointLongLatt, featureLayer, lineSymbol, true, "low"); 
+                }
+                else if(event.button === 2){
+                spiderMaps.update(view, startPointLongLatt, featureLayer, lineSymbol, false, "low"); 
+                }
+
+            })
+
+        });
+    </script>
+ 
+</head>
+
+<body>
+    <div id="viewDiv"></div>
+   
+        <div id="configFs">
+       <p>Click to generate a new starting point. Left click for GeoDesic, Right click straight lines.</p>
+        <p><input type="text" id="fs-text" placeholder="https://services.arcgis.com/FeatureServer" />
+        <button id="fs-button">Let's go!</button></p>
+        <p> <a href="https://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/USA_Airports_by_scale/FeatureServer" target="_blank">Here's</a> an example of another feature layer.
+        <p><a href="https://github.com/maplabs/spider-maps" target="_blank">View on GitHub here</a></p>
+    </div>   
+</body>
