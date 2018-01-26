@@ -1,0 +1,76 @@
+html, body, #map {
+	padding: 0;
+	margin: 0;
+	height: 100%;
+	width: 100%;
+	overflow: hidden;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 0;
+}
+
+
+main {
+	background: #212121;
+	height: calc(100% - 100px) !important;
+}
+
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 100px;
+	padding-top: 15px;
+	background-color: #323232;
+	color: #777;
+}
+
+.footer > .wrapper {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.footer > .wrapper > input[type=text] {
+	position: absolute;
+    top: -64px;
+    width: 30%;
+	padding: 8px;
+    margin: 0 0 10px;
+    box-sizing: border-box;
+    font-size: 12px;
+	border: none;
+    -webkit-box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.3);
+	-moz-box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.3);
+	box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.3);
+}
+
+.esri-attribution {
+	background: rgba(0,0,0,.4);
+    color: #bebebe;
+}
+
+.esri-attribution a {
+	color: #bebebe;
+}
+
+#owl-demo .item{
+	background: #a1def8;
+	padding: 30px 0px;
+	display: block;
+	margin: 5px;
+	color: #FFF;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	text-align: center;
+}
+
+.owl-item.clicked {
+	border: 1px solid red;
+}

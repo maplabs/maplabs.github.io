@@ -1,0 +1,1730 @@
+{
+  "collection1": [
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Campfire.png",
+        "alt": "Campfire Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Camping.png",
+        "alt": "Camping Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Crossroads.png",
+        "alt": "Crossroads Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Dead_End.png",
+        "alt": "Dead End Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Do_Not_Enter.png",
+        "alt": "Do Not Enter Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Gas.png",
+        "alt": "Gas Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Left_T-junction.png",
+        "alt": "Left T-junction Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Medical.png",
+        "alt": "Medical Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Motel.png",
+        "alt": "Motel Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/No_Outlet.png",
+        "alt": "No Outlet Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/No_Thru_Traffic.png",
+        "alt": "No Thru Traffic Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Opposing_Traffic.png",
+        "alt": "Opposing Traffic Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Pedestrian_Crossing.png",
+        "alt": "Pedestrian Crossing Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Picnic_Area.png",
+        "alt": "Picnic Area Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Railway_Crossing.png",
+        "alt": "Railway Crossing Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Restaurant.png",
+        "alt": "Restaurant Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Right_T-junction.png",
+        "alt": "Right T-junction Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/School_Crossing.png",
+        "alt": "School Crossing Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Speed_Limit_-_15_mph.png",
+        "alt": "Speed Limit - 15 mph Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Speed_Limit_-_20_mph.png",
+        "alt": "Speed Limit - 20 mph Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Speed_Limit_-_25_mph.png",
+        "alt": "Speed Limit - 25 mph Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Speed_Limit_-_30_mph.png",
+        "alt": "Speed Limit - 30 mph Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Speed_Limit_-_35_mph.png",
+        "alt": "Speed Limit - 35 mph Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Speed_Limit_-_40_mph.png",
+        "alt": "Speed Limit - 40 mph Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Speed_Limit_-_45_mph.png",
+        "alt": "Speed Limit - 45 mph Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Speed_Limit_-_50_mph.png",
+        "alt": "Speed Limit - 50 mph Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Speed_Limit_-_55_mph.png",
+        "alt": "Speed Limit - 55 mph Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Speed_Limit_-_60_mph.png",
+        "alt": "Speed Limit - 60 mph Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Speed_Limit_-_65_mph.png",
+        "alt": "Speed Limit - 65 mph Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Speed_Limit_-_70_mph.png",
+        "alt": "Speed Limit - 70 mph Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Stop.png",
+        "alt": "Stop Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Stop_Ahead.png",
+        "alt": "Stop Ahead Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/T-Junction.png",
+        "alt": "T-Junction Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Telephone.png",
+        "alt": "Telephone Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Traffic_Light.png",
+        "alt": "Traffic Light Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Traffic_Light_1.png",
+        "alt": "Traffic Light 1 Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Traffic_Light_2.png",
+        "alt": "Traffic Light 2 Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Traffic_Light_3.png",
+        "alt": "Traffic Light 3 Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Traffic_Light_4.png",
+        "alt": "Traffic Light 4 Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Turn_Left_Arrow.png",
+        "alt": "Turn Left Arrow Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Turn_Right_Arrow.png",
+        "alt": "Turn Right Arrow Symbol Style"
+      }
+    },
+    {
+      "signs_signals": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticSignsAndSignals/thumbnails/Yield.png",
+        "alt": "Yield Symbol Style"
+      }
+    }
+  ],
+  "collection2": [
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/ATM.png",
+        "alt": "ATM Symbol Style"
+      }
+    },
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/Bus_Stop_1.png",
+        "alt": "Bus Stop 1 Symbol Style"
+      }
+    },
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/Bus_Stop_2.png",
+        "alt": "Bus Stop 2 Symbol Style"
+      }
+    },
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/Dumpster.png",
+        "alt": "Dumpster Symbol Style"
+      }
+    },
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/Jersey_Barrier.png",
+        "alt": "Jersey Barrier Symbol Style"
+      }
+    },
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/Light_On_Post_-_Light_off.png",
+        "alt": "Light On Post - Light off Symbol Style"
+      }
+    },
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/Light_On_Post_-_Light_on.png",
+        "alt": "Light On Post - Light on Symbol Style"
+      }
+    },
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/Newspaper_Vending_Machine.png",
+        "alt": "Newspaper Vending Machine Symbol Style"
+      }
+    },
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/Overhanging_Sidewalk_-_Light_off.png",
+        "alt": "Overhanging Sidewalk - Light off Symbol Style"
+      }
+    },
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/Overhanging_Sidewalk_-_Light_on.png",
+        "alt": "Overhanging Sidewalk - Light on Symbol Style"
+      }
+    },
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/Overhanging_Street_-_Light_off.png",
+        "alt": "Overhanging Street - Light off Symbol Style"
+      }
+    },
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/Overhanging_Street_-_Light_on.png",
+        "alt": "Overhanging Street - Light on Symbol Style"
+      }
+    },
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/Overhanging_Street_and_Sidewalk_-_Light_off.png",
+        "alt": "Overhanging Street and Sidewalk - Light off Symbol Style"
+      }
+    },
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/Overhanging_Street_and_Sidewalk_-_Light_on.png",
+        "alt": "Overhanging Street and Sidewalk - Light on Symbol Style"
+      }
+    },
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/Park_Bench_1.png",
+        "alt": "Park Bench 1 Symbol Style"
+      }
+    },
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/Park_Bench_2.png",
+        "alt": "Park Bench 2 Symbol Style"
+      }
+    },
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/Park_Bench_3.png",
+        "alt": "Park Bench 3 Symbol Style"
+      }
+    },
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/Park_Bench_4.png",
+        "alt": "Park Bench 4 Symbol Style"
+      }
+    },
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/Payphone.png",
+        "alt": "Payphone Symbol Style"
+      }
+    },
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/Picnic_Table.png",
+        "alt": "Picnic Table Symbol Style"
+      }
+    },
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/Planter_Circular.png",
+        "alt": "Planter Circular Symbol Style"
+      }
+    },
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/Planter_Square.png",
+        "alt": "Planter Square Symbol Style"
+      }
+    },
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/Planter_Tapered.png",
+        "alt": "Planter Tapered Symbol Style"
+      }
+    },
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/Rock_1.png",
+        "alt": "Rock 1 Symbol Style"
+      }
+    },
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/Rock_2.png",
+        "alt": "Rock 2 Symbol Style"
+      }
+    },
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/Rock_3.png",
+        "alt": "Rock 3 Symbol Style"
+      }
+    },
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/Rock_4.png",
+        "alt": "Rock 4 Symbol Style"
+      }
+    },
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/Traffic_Barrier_1.png",
+        "alt": "Traffic Barrier 1 Symbol Style"
+      }
+    },
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/Traffic_Barrier_2.png",
+        "alt": "Traffic Barrier 2 Symbol Style"
+      }
+    },
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/Traffic_Cone.png",
+        "alt": "Traffic Cone Symbol Style"
+      }
+    },
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/Trash_Bin_1.png",
+        "alt": "Trash Bin 1 Symbol Style"
+      }
+    },
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/Trash_Bin_2.png",
+        "alt": "Trash Bin 2 Symbol Style"
+      }
+    },
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/Trash_Bin_3.png",
+        "alt": "Trash Bin 3 Symbol Style"
+      }
+    },
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/Trash_Can_1.png",
+        "alt": "Trash Can 1 Symbol Style"
+      }
+    },
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/Trash_Can_2.png",
+        "alt": "Trash Can 2 Symbol Style"
+      }
+    },
+    {
+      "street_scene": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticStreetScene/thumbnails/US_Mailbox.png",
+        "alt": "US Mailbox Symbol Style"
+      }
+    }
+  ],
+  "collection3": [
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/FrangulaAlnus.png",
+        "alt": "Alder Buckthorn Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/EchinodorusBleheri.png",
+        "alt": "Amazon Sword Plant Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/CastaneaDentata.png",
+        "alt": "American Chestnut Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/PlatanusOccidentalis.png",
+        "alt": "American Sycamore Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/PrunusArmeniaca.png",
+        "alt": "Apricot Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/CasuarinaEquisetifolia.png",
+        "alt": "Australian Pine Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/TaxodiumDistichum.png",
+        "alt": "Baldcypress Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/AbiesBalsamea.png",
+        "alt": "Balsam Fir Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/PhyllostachysAurea.png",
+        "alt": "Bamboo Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/MusaAcuminata.png",
+        "alt": "Banana Tree Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/TiliaAmericana.png",
+        "alt": "Basswood Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/LaurusNobilis.png",
+        "alt": "Bay Laurel Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/RobiniaPseudoacacia.png",
+        "alt": "Black Locust Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/EucalyptusGlobulus.png",
+        "alt": "Blue Gum Eucalyptus Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/BuxusSempervirens.png",
+        "alt": "Boxwood Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/PhlebodiumAureum.png",
+        "alt": "Cabbage Palm Fern Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/UmbellulariaCalifornica.png",
+        "alt": "California Bay Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/CalocedrusDecurrens.png",
+        "alt": "California Incense Cedar Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/WashingtoniaFilifera.png",
+        "alt": "California Palm Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/SequoiaSempervirens.png",
+        "alt": "California Redwood Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/JuglansRegia.png",
+        "alt": "California Walnut Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/CocosNucifera.png",
+        "alt": "Coconut Palm Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/CrataegusMonogyna.png",
+        "alt": "Common Hawthorn Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/SorbusAria.png",
+        "alt": "Common Whitebeam Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/AesculusHippocastanum.png",
+        "alt": "Conker Tree Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/PhoenixDactylifera.png",
+        "alt": "Date Palm Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/ChilopsisLinearis.png",
+        "alt": "Desert Willow Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/PseudotsugaMenziesii.png",
+        "alt": "Douglas Fir Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/FagusSylvatica.png",
+        "alt": "European Beech Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/LarixDecidua.png",
+        "alt": "European Larch Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/FicusBenjamina.png",
+        "alt": "Ficus Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/UlmusMinor.png",
+        "alt": "Field Elm Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/FremontodendronCalifornicum.png",
+        "alt": "Flannelbush Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/CornusFlorida.png",
+        "alt": "Flowering Dogwood Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/GenericDead.png",
+        "alt": "Generic Dead Tree Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/Stump.png",
+        "alt": "Generic Stump Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/Unknown.png",
+        "alt": "Generic Tree Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/SequoiadendronGiganteum.png",
+        "alt": "Giant Sequoia Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/AgaveStricta.png",
+        "alt": "Hedgehog Agave Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/AraliaElata.png",
+        "alt": "Japanese Angelica Tree Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/PhilodendronSelloum.png",
+        "alt": "Lacy Tree Philodendron Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/CupressusLeylandii.png",
+        "alt": "Leyland Cypress Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/ConvallariaMajalis.png",
+        "alt": "Lily of the Valley Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/PinusContorta.png",
+        "alt": "Lodgepole Pine Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/RhamnusAlaternus.png",
+        "alt": "Mediterranean Buckthorn Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/SabalMexicana.png",
+        "alt": "Mexican Palmetto Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/CercocarpusMontanus.png",
+        "alt": "Mountain Mahogany Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/QuercusRubra.png",
+        "alt": "Northern Red Oak Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/AcerPlatanoides.png",
+        "alt": "Norway Maple Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/PiceaAbies.png",
+        "alt": "Norway Spruce Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/BulbophyllumPhalaenopsis.png",
+        "alt": "Orchid Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/Other.png",
+        "alt": "Other Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/LigustrumOvalifolium.png",
+        "alt": "Oval-leaved Privet Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/CordylinePetiolaris.png",
+        "alt": "Palm Lily Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/ParkinsoniaAculeata.png",
+        "alt": "Palo Verde Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/BetulaPapyrifera.png",
+        "alt": "Paper Birch Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/ChamaedoreaElegans.png",
+        "alt": "Parlour Palm Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/OpuntiaAciculata.png",
+        "alt": "Prickly Pear Cactus Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/AlnusRubra.png",
+        "alt": "Red Alder Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/CaryaOvalis.png",
+        "alt": "Red Hickory Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/RhododendronTsutsuji.png",
+        "alt": "Rhododendron Azaleas Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/RosaGrandiflora.png",
+        "alt": "Rose Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/AiphanesHorrida.png",
+        "alt": "Ruffle Palm Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/CarnegieaSaguaro.png",
+        "alt": "Saguaro Cactus Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/SassafrasAlbidum.png",
+        "alt": "Sassafras Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/PinusSylvestris.png",
+        "alt": "Scots Pine Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/YuccaGloriosa.png",
+        "alt": "Sea Islands Yucca Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/AmelanchierCanadensis.png",
+        "alt": "Shadbush Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/SansevieriaTrifasciata.png",
+        "alt": "Snake Plant Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/MagnoliaGrandiflora.png",
+        "alt": "Southern Magnolia Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/SpartiumJunceum.png",
+        "alt": "Spanish Broom Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/ArbutusUnedo.png",
+        "alt": "Strawberry Tree Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/AcerSaccharum.png",
+        "alt": "Sugar Maple Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/HelianthusAnnuus.png",
+        "alt": "Sunflower Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/LiquidambarStyraciflua.png",
+        "alt": "Sweetgum Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/AcaciaTortilis.png",
+        "alt": "Umbrella Acacia Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/JuniperusOccidentalis.png",
+        "alt": "Western Juniper Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/FraxinusAmericana.png",
+        "alt": "White Ash Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/QuercusAlba.png",
+        "alt": "White Oak Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/PopulusTremuloides.png",
+        "alt": "White Poplar Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/SalixAlba.png",
+        "alt": "White Willow Symbol Style"
+      }
+    },
+    {
+      "thematic_vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/ThematicTrees/thumbnails/HamamelisVirginiana.png",
+        "alt": "Witch Hazel Symbol Style"
+      }
+    }
+  ],
+  "collection4": [
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Ambulance.png",
+        "alt": "Ambulance Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Audi_A6.png",
+        "alt": "Audi A6 Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/BMW_3-Series.png",
+        "alt": "BMW 3-Series Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Backhoe.png",
+        "alt": "Backhoe Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Bobcat.png",
+        "alt": "Bobcat Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Bus.png",
+        "alt": "Bus Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Crane.png",
+        "alt": "Crane Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Dumptruck.png",
+        "alt": "Dumptruck Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Eurocopter_AS-365.png",
+        "alt": "Eurocopter AS-365 Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Eurocopter_AS-365_-_Flying.png",
+        "alt": "Eurocopter AS-365 - Flying Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Eurocopter_H125.png",
+        "alt": "Eurocopter H125 Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Eurocopter_H125_-_Flying.png",
+        "alt": "Eurocopter H125 - Flying Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Firetruck.png",
+        "alt": "Firetruck Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Ford_Edge.png",
+        "alt": "Ford Edge Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Ford_Expedition.png",
+        "alt": "Ford Expedition Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Ford_F-150.png",
+        "alt": "Ford F-150 Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Ford_Fiesta.png",
+        "alt": "Ford Fiesta Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Ford_Focus_Hatchback.png",
+        "alt": "Ford Focus Hatchback Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Ford_Fusion.png",
+        "alt": "Ford Fusion Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Ford_Mustang.png",
+        "alt": "Ford Mustang Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Ford_Taurus.png",
+        "alt": "Ford Taurus Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Ford_Transit_Commercial_Van.png",
+        "alt": "Ford Transit Commercial Van Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Ford_Transit_Connect.png",
+        "alt": "Ford Transit Connect Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Mercedes_S-Class.png",
+        "alt": "Mercedes S-Class Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Motorboat.png",
+        "alt": "Motorboat Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Motorcycle.png",
+        "alt": "Motorcycle Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Police.png",
+        "alt": "Police Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Porsche_Boxter.png",
+        "alt": "Porsche Boxter Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Porsche_Carrera.png",
+        "alt": "Porsche Carrera Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Sailboat.png",
+        "alt": "Sailboat Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Sailboat_-_Sails_Up.png",
+        "alt": "Sailboat - Sails Up Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Taxi.png",
+        "alt": "Taxi Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Tesla_P7.png",
+        "alt": "Tesla P7 Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Tower_Crane.png",
+        "alt": "Tower Crane Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Toyota_Prius.png",
+        "alt": "Toyota Prius Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Tram.png",
+        "alt": "Tram Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Van_Taxi.png",
+        "alt": "Van Taxi Symbol Style"
+      }
+    },
+    {
+      "transportation": {
+        "text": "",
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTransportation/thumbnails/Volkswagen_Jetta_Wagon.png",
+        "alt": "Volkswagen Jetta Wagon Symbol Style"
+      }
+    }
+  ],
+  "collection5": [
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/FrangulaAlnus.png",
+        "alt": "Alder Buckthorn Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/EchinodorusBleheri.png",
+        "alt": "Amazon Sword Plant Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/CastaneaDentata.png",
+        "alt": "American Chestnut Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/PlatanusOccidentalis.png",
+        "alt": "American Sycamore Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/PrunusArmeniaca.png",
+        "alt": "Apricot Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/CasuarinaEquisetifolia.png",
+        "alt": "Australian Pine Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/TaxodiumDistichum.png",
+        "alt": "Baldcypress Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/AbiesBalsamea.png",
+        "alt": "Balsam Fir Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/PhyllostachysAurea.png",
+        "alt": "Bamboo Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/MusaAcuminata.png",
+        "alt": "Banana Tree Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/TiliaAmericana.png",
+        "alt": "Basswood Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/LaurusNobilis.png",
+        "alt": "Bay Laurel Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/RobiniaPseudoacacia.png",
+        "alt": "Black Locust Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/EucalyptusGlobulus.png",
+        "alt": "Blue Gum Eucalyptus Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/BuxusSempervirens.png",
+        "alt": "Boxwood Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/PhlebodiumAureum.png",
+        "alt": "Cabbage Palm Fern Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/UmbellulariaCalifornica.png",
+        "alt": "California Bay Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/CalocedrusDecurrens.png",
+        "alt": "California Incense Cedar Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/WashingtoniaFilifera.png",
+        "alt": "California Palm Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/SequoiaSempervirens.png",
+        "alt": "California Redwood Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/JuglansRegia.png",
+        "alt": "California Walnut Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/CocosNucifera.png",
+        "alt": "Coconut Palm Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/CrataegusMonogyna.png",
+        "alt": "Common Hawthorn Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/SorbusAria.png",
+        "alt": "Common Whitebeam Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/AesculusHippocastanum.png",
+        "alt": "Conker Tree Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/PhoenixDactylifera.png",
+        "alt": "Date Palm Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/ChilopsisLinearis.png",
+        "alt": "Desert Willow Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/PseudotsugaMenziesii.png",
+        "alt": "Douglas Fir Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/FagusSylvatica.png",
+        "alt": "European Beech Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/LarixDecidua.png",
+        "alt": "European Larch Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/FicusBenjamina.png",
+        "alt": "Ficus Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/UlmusMinor.png",
+        "alt": "Field Elm Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/FremontodendronCalifornicum.png",
+        "alt": "Flannelbush Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/CornusFlorida.png",
+        "alt": "Flowering Dogwood Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/GenericDead.png",
+        "alt": "Generic Dead Tree Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/Stump.png",
+        "alt": "Generic Stump Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/Unknown.png",
+        "alt": "Generic Tree Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/SequoiadendronGiganteum.png",
+        "alt": "Giant Sequoia Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/AgaveStricta.png",
+        "alt": "Hedgehog Agave Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/AraliaElata.png",
+        "alt": "Japanese Angelica Tree Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/PhilodendronSelloum.png",
+        "alt": "Lacy Tree Philodendron Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/CupressusLeylandii.png",
+        "alt": "Leyland Cypress Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/ConvallariaMajalis.png",
+        "alt": "Lily of the Valley Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/PinusContorta.png",
+        "alt": "Lodgepole Pine Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/RhamnusAlaternus.png",
+        "alt": "Mediterranean Buckthorn Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/SabalMexicana.png",
+        "alt": "Mexican Palmetto Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/CercocarpusMontanus.png",
+        "alt": "Mountain Mahogany Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/QuercusRubra.png",
+        "alt": "Northern Red Oak Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/AcerPlatanoides.png",
+        "alt": "Norway Maple Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/PiceaAbies.png",
+        "alt": "Norway Spruce Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/BulbophyllumPhalaenopsis.png",
+        "alt": "Orchid Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/Other.png",
+        "alt": "Other Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/LigustrumOvalifolium.png",
+        "alt": "Oval-leaved Privet Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/CordylinePetiolaris.png",
+        "alt": "Palm Lily Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/ParkinsoniaAculeata.png",
+        "alt": "Palo Verde Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/BetulaPapyrifera.png",
+        "alt": "Paper Birch Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/ChamaedoreaElegans.png",
+        "alt": "Parlour Palm Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/OpuntiaAciculata.png",
+        "alt": "Prickly Pear Cactus Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/AlnusRubra.png",
+        "alt": "Red Alder Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/CaryaOvalis.png",
+        "alt": "Red Hickory Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/RhododendronTsutsuji.png",
+        "alt": "Rhododendron Azaleas Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/RosaGrandiflora.png",
+        "alt": "Rose Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/AiphanesHorrida.png",
+        "alt": "Ruffle Palm Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/CarnegieaSaguaro.png",
+        "alt": "Saguaro Cactus Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/SassafrasAlbidum.png",
+        "alt": "Sassafras Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/PinusSylvestris.png",
+        "alt": "Scots Pine Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/YuccaGloriosa.png",
+        "alt": "Sea Islands Yucca Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/AmelanchierCanadensis.png",
+        "alt": "Shadbush Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/SansevieriaTrifasciata.png",
+        "alt": "Snake Plant Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/MagnoliaGrandiflora.png",
+        "alt": "Southern Magnolia Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/SpartiumJunceum.png",
+        "alt": "Spanish Broom Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/ArbutusUnedo.png",
+        "alt": "Strawberry Tree Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/AcerSaccharum.png",
+        "alt": "Sugar Maple Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/HelianthusAnnuus.png",
+        "alt": "Sunflower Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/LiquidambarStyraciflua.png",
+        "alt": "Sweetgum Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/AcaciaTortilis.png",
+        "alt": "Umbrella Acacia Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/JuniperusOccidentalis.png",
+        "alt": "Western Juniper Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/FraxinusAmericana.png",
+        "alt": "White Ash Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/QuercusAlba.png",
+        "alt": "White Oak Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/PopulusTremuloides.png",
+        "alt": "White Poplar Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/SalixAlba.png",
+        "alt": "White Willow Symbol Style"
+      }
+    },
+    {
+      "vegetation": {
+        "src": "https://static.arcgis.com/arcgis/styleItems/RealisticTrees/thumbnails/HamamelisVirginiana.png",
+        "alt": "Witch Hazel Symbol Style"
+      }
+    }
+  ]
+}
